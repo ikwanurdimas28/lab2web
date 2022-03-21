@@ -83,7 +83,7 @@
 ```
 <p style="text-align: center; color: cc8e4;>
 ```
-![inline](img/CSS_inline.png)
+![inline](img/CSS_Inline.png)
 ## 4. Membuat CSS Eksternal
 * Membuat CSS Eksternal dengan membuat file baru dengan nama style_eksternal.css kemudian buat deklarasi css seperti berikut ini.
 ```
