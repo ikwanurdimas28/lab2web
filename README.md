@@ -75,7 +75,7 @@
 ```
 
 * model Praktikum pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/css_internal.png)
+![internal](img/CSS_internal.png)
 
 ## 3. Menambahkan Inline CSS
 * Menambahkan Inline CSS
@@ -83,7 +83,7 @@
 ```
 <p style="text-align: center; color: cc8e4;>
 ```
-![inline](img/css_inline.png)
+![inline](img/CSS_inline.png)
 ## 4. Membuat CSS Eksternal
 * Membuat CSS Eksternal dengan membuat file baru dengan nama style_eksternal.css kemudian buat deklarasi css seperti berikut ini.
 ```
@@ -111,7 +111,7 @@ nav a:hover {
 </head>
 ``` 
 * selanjutnya refresh kembali pada browser unutk melihat perubahan menjadi seperti ini
-![eksternal](img/eksternal.png)
+![eksternal](img/CSS_eksternal.png)
 ## 5. Menambahkan CSS Selector
 * selanjutnya menambahkan CSS Selector menggunkan ID dan class Selector pada file style_eksternal.css dan menambahkan kode seperti berikut 
 ```
